@@ -1,6 +1,6 @@
 - 👋  Hi, I’m tohAdam
 - 👀  I'm eager to expand my knowledge.
-- 🌱  I'm a freshman studying computer science right now.
+- 🌱  I'm a sophomore studying computer science right now.
 - 📫  How to reach me adamzpingay0@gmail.com
 
 <!---
